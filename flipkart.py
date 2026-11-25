@@ -6,4 +6,6 @@ home page code
 
 product category code
 
-electronics code
+electronics code ---> fan
+
+                 
