@@ -7,5 +7,3 @@ home page code
 product category code
 
 electronics code ---> fan
-                 
-
